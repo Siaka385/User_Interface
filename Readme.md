@@ -53,10 +53,15 @@ This repository is a collection of UI projects built to inspire creativity and p
 
 3. Open the desired project folder:
 
+- mood_and_board:
+
    ```bash
    cd mood-and-board
    ```
-
+- Atomic design
+```bash
+cd atomic_design
+```
 
 
 ---
