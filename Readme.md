@@ -62,6 +62,10 @@ This repository is a collection of UI projects built to inspire creativity and p
 ```bash
 cd atomic_design
 ```
+- rules
+```bash
+cd rules
+```
 
 
 ---
